@@ -1,4 +1,4 @@
-# ConnectHub-CapStone_Project-
+# ConnectHub-CapStone_Project
 The Maker: Suryanshu Tiwari
 
 Project Theme: Social Media
